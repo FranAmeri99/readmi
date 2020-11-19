@@ -9,6 +9,11 @@ _Estas instrucciones te permitirán obtener una copia del proyecto en funcionami
 
 ### Pre-requisitos 📋
 
+_Se necesita clonar el repositorio_
+
+```
+git clone https://github.com/KevinGenaro/go-meli-integration.git
+```
 _Se necesita instalar GoLang 1.15.5_
 
 ```
@@ -25,12 +30,13 @@ GoLand: https://www.jetbrains.com/go/download/#section=linux
 
 ### Instalación 🔧
 
-_Una serie de ejemplos paso a paso que te dice lo que debes ejecutar para tener un entorno de desarrollo ejecutandose_
+_Una serie de paso a paso que debes ejecutar para ejecutar el programa_
 
-_Dí cómo será ese paso_
+_primero entramos a la carpeta contenedora del archivo_
 
 ```
-Da un ejemplo
+cd go-meli-integration/
+
 ```
 
 _Y repite_
